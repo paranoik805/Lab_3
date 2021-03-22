@@ -86,6 +86,7 @@ def exp_decay(epoch,lr):
 <img src="./graph/epoch_loss_exp.svg">
 
  ***Пояснение:*** 
+ 
 <img src="./graph/com_exp.jpg">
 
 ### Анализ результатов:
