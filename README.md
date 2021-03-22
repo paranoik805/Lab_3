@@ -25,7 +25,7 @@
 <img src="./graph/epoch_loss v1.svg">
 
  ***Пояснение***
-<img src="./graph/com_v1.svg">
+<img src="./graph/com_v1.jpg">
 
 
 ### Анализ результатов:
