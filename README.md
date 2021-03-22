@@ -61,11 +61,11 @@ def exp_decay(epoch,lr):
  
 
  ***График метрики точности:*** 
-<img src="./epoch_categorical_accuracy_step.svg">
+<img src="./graph/epoch_categorical_accuracy_step.svg">
 
  ***График функции потерь::*** 
  
-<img src="./epoch_loss_step.svg">
+<img src="./graph/epoch_loss_step.svg">
 
  ***Пояснение:*** 
 <img src="./graph/com_step.jpg">
@@ -77,11 +77,11 @@ def exp_decay(epoch,lr):
  
 
  ***График метрики точности:*** 
-<img src="./epoch_categorical_accuracy_exp.svg">
+<img src="./graph/epoch_categorical_accuracy_exp.svg">
 
  ***График функции потерь::*** 
  
-<img src="./epoch_loss_exp.svg">
+<img src="./graph/epoch_loss_exp.svg">
 
  ***Пояснение:*** 
 <img src="./graph/com_exp.jpg">
